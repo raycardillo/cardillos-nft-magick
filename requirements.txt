@@ -1,0 +1,4 @@
+argparse~=1.4.0
+Wand~=0.6.11
+PyYAML~=6.0
+PyExifTool~=0.5.5

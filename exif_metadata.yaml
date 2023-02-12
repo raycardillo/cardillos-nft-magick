@@ -1,0 +1,34 @@
+#
+# YAML file used to update EXIF/IPTC metadata in each generated image file.
+# Update the config here before generating.
+#
+
+# contact information
+contact:
+  author:
+    Ray Cardillo
+  email:
+    ray@cardillos.art
+  url:
+    https://nfts.cardillos.art
+  country:
+    # https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata-2022.1.html#country-name
+    name:
+      United States of America
+    # https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata-2022.1.html#country-iso-code
+    code:
+      US
+
+# copyright notice
+copyright:
+  © 2023 Ray Cardillo (Cardillo's Art). All rights reserved.
+
+# common subject such as NFT project collection name
+subject:
+  Cardillo's NFT Magick
+
+# common keywords to add relevant to the NFT project collection
+# keywords cannot contain spaces
+keywords:
+  - NFT
+  - magick

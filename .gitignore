@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+**/.DS_Store
+
+# Image Assets
+/layers
+/generated
+
+# EXIF Config Files
+*.yaml
